@@ -96,8 +96,8 @@ if __name__ == "__main__":
         elif 'about yourself' in query:
              speak('I am Zara, an AI personal assistant. I am a python program. I love answering different questions. I like humans, and i think one day i will feel, walk , sing, dance like humans.')
 
-        elif 'your boss' in query:
-             speak(' Ayush aka Morris is my boss. He loves coding, and build me up.')
+        # elif 'your boss' in query:
+        #      speak(' Ayush aka Morris is my boss. He loves coding, and build me up.')
     
         elif 'hey zara' in query:
              speak('Yes sir, how may I help you')
